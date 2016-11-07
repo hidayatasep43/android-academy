@@ -10,12 +10,12 @@ Makers Institute - Android Academy
   * [Day 2 - Github Pages](#day12)
   * [Day 3 - Project Assignment - Branching, Merge Conflict](#day13)
   
-* [Week 2 - Project 1 - Build a single screen app](#week2)
+* [Week 2 - Material Design for android](#week2)
   * [Day 1 - Building layout 1](#day21)
   * [Day 2 - Building layout 2](#day22)
   * [Day 3 - Project : Single Screen App](#day23)
   
-* [Week 3 - C# Part 2](#week3)
+* [Week 3 - Java ](#week3)
   * [Day 1 - Object Oriented Programming Part 2](#day31)
   * [Day 2 - Enum, Struct, LINQ, I/O](#day32)
   * [Day 3 - Project Assignment: Simple Payroll Software](#day33)
